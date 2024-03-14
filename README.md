@@ -1,4 +1,4 @@
-# Olá, me chamo Daniel Fernandes Santos 👋🏻 ! 
+# Olá, me chamo Daniel Fernandes 👋🏻 ! 
 
 - 🔭 Atualmente estou trabalhando em Projetos no Curso Proa Profissão
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
