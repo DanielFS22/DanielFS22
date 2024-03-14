@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou trabalhando em Projetos no Curso Proa Profissão
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
 - 👯 Estou procurando colaborar em Projetos de Back-end e Front_end
-- 🤔 Estou procurando ajuda com ....
 - ⚡ Curiosidade: Gosto de Animes e Games, tenho dois gatos (Augusto e Nanami) e amo Programação!
 
 ## Ferramentas e Tecnologias:
