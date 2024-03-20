@@ -18,6 +18,7 @@
   
 </div>
 
+![DanielFS22](https://github-readme-stats.vercel.app/api?username=DanielFS22&show_icons=true&theme=radical)
           
           
           
