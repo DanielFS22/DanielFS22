@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/_dannox/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dannox2002@gmail.comgmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-fernandes-santos-9b9609205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/DanielFS22=anuraghazra&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/DanielFS22=anuraghazra&layout=compact
   
 </div>
 
