@@ -11,6 +11,9 @@
 
 <div align="center">
   <div>
+     <a href="https://github.com/DanielFS22">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielFS22&locale=pt-br&theme=tokyonight&show_icons=true&card_width=460" />  
+    </a>
     <a href="https://github.com/DanielFS22">
       <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFS22&locale=pt-br&theme=tokyonight&layout=compact&langs_count=6&card_width=310" />
     </a>
@@ -27,4 +30,3 @@
   
 </div>
 
-![DanielFS22](https://github-readme-stats.vercel.app/api?username=DanielFS22&show_icons=true&theme=radical) 
