@@ -1,4 +1,4 @@
-# Olá, me chamo Daniel Fernandes 👋🏻 ! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Fernandes.;Seja-bem+vindo+ao+meu+Github🐱‍👤;)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estou trabalhando em Projetos no Curso Proa Profissão
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
