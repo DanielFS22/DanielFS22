@@ -9,6 +9,15 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
+<div align="center">
+  <div>
+    <a href="https://github.com/DanielFS22">
+      <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFS22&locale=pt-br&theme=tokyonight&layout=compact&langs_count=6&card_width=310" />
+    </a>
+  </div>
+</div>
+
+
 ## Contatos:
 
 <div> 
@@ -18,7 +27,4 @@
   
 </div>
 
-![DanielFS22](https://github-readme-stats.vercel.app/api?username=DanielFS22&show_icons=true&theme=radical)
-          
-          
-          
+![DanielFS22](https://github-readme-stats.vercel.app/api?username=DanielFS22&show_icons=true&theme=radical) 
