@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Fernandes.;Seja-bem+vindo+ao+meu+Github🐱‍👤;)](https://git.io/typing-svg)
 
-- 🔭 Atualmente estou trabalhando em Projetos no Curso Proa Profissão
+- 🖥 Ciência da computação 2/8
+- 🏆 Demoday destaque 2024 - Buildar
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
 - 👯 Estou procurando colaborar em Projetos de Back-end e Front_end
 - ⚡ Curiosidade: Gosto de Animes e Games, tenho dois gatos (Augusto e Nanami) e amo Programação!
