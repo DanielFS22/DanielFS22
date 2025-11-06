@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663399&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Fernandes.;Seja-bem+vindo+ao+meu+Github🐱‍👤;)](https://git.io/typing-svg)
 
-- 🖥 Ciência da computação 2/8
+- 🖥 Ciência da computação 3/8
 - 🏆 Demoday destaque 2024 - Buildar
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
 - 👯 Estou procurando colaborar em Projetos de Back-end e Front_end
