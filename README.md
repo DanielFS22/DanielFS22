@@ -27,4 +27,7 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFS22&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFS22&layout=donut&theme=dracula)
+
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielFS22&theme=dracula)
