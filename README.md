@@ -33,6 +33,6 @@
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielFS22&theme=dracula)
 
 
-## 🐍 Jogo da Cobrinha
+## 🐍 Commits
 
 ![Snake animation](https://raw.githubusercontent.com/DanielFS22/DanielFS22/output/github-contribution-grid-snake.svg)
