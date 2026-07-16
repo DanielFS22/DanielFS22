@@ -3,7 +3,7 @@
 - 🖥 Ciência da computação 5/8
 - 🏆 Demoday destaque 2024 - Buildar
 - 🌱 Atualmente estou aprendendo as linguagens: JAVA, JavaScript, HTML, CSS e Python
-- 👯 Estou procurando colaborar em Projetos de Back-end e Front_end
+- 👯 Estou procurando colaborar em Projetos de Back-end e Front-end
 - ⚡ Curiosidade: Gosto de Animes e Games, tenho dois gatos (Augusto e Nanami) e amo Programação!
 
 
