@@ -3,7 +3,7 @@
 - 🖥 Ciência da computação 5/8
 - 🏆 Demoday destaque 2024 - Buildar
 - 🔭 Estou explorando: Soluções corporativas escaláveis, bancos de dados vetoriais e a implementação de Inteligência Artificial para automação de processos.
--⚡ Curiosidade: Sobrevivente de merge conflicts e APIs. Movido a café, animes, games e aos meus gatos, Augusto e Nanami! 🐱💻☕
+- ⚡ Curiosidade: Sobrevivente de merge conflicts e APIs. Movido a café, animes, games e aos meus gatos, Augusto e Nanami! 🐱💻☕
 
 
 ## Linguagens e Tecnologias que utilizo
